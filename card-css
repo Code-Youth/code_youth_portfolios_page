@@ -1,0 +1,38 @@
+.name{
+    position:relative;
+    left: 66px;
+  bottom:40px;
+}
+
+.date{
+  position:relative;
+  left:230px;
+  bottom:80px;
+ } 
+
+  
+.button-1{
+  position:relative;
+  left:90px;
+  bottom:450px;
+ } 
+
+.button-2{
+  position:relative;
+  left:450px;
+  bottom:480px;
+ } 
+
+
+.button-3{
+  position:relative;
+  left:850px;
+  bottom:520px;
+ } 
+
+
+.button-4{
+  position:relative;
+  left:1220px;
+  bottom:556px;
+ } 
